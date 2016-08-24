@@ -1,0 +1,24 @@
+{
+  "name": "twiliolambdasynchronouscalls",
+  "version": "1.0.0",
+  "description": "proof of concept, maintaining state in a serverless environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oisinBates/TwilioLambdaSynchronousCalls.git"
+  },
+  "keywords": [
+    "Twilio",
+    "AWS",
+    "Lambda"
+  ],
+  "author": "Oisin Bates",
+  "license": "ISC"
+  "dependencies": {
+    "twilio": "^2.9.1",
+    "mysql": "^2.10.2"
+  }
+}
