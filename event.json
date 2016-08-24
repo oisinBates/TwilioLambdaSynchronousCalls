@@ -1,4 +1,4 @@
 {
-  "query": { "call_id": "1",
+  "query": { "foo": "bar",
 	}
 }
